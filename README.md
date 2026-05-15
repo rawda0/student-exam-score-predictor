@@ -84,7 +84,7 @@ jupyter notebook Final_Project.ipynb
 
 ---
 
-## 👤 Author
+##  Author
 
 Rawda Attia
 
