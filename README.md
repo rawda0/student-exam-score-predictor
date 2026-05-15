@@ -17,9 +17,6 @@ The dataset contains **~6,600 student records** with features like hours studied
 ```
 ├── Final_Project.ipynb               # Main notebook (EDA + modeling)
 ├── StudentPerformanceFactors.csv     # Dataset
-├── ML_Project_Template.docx         # Project documentation
-├── Project_Proposal_Form.docx        # Original project proposal
-├── Student_Performance_Factors.pptx  # Presentation slides
 ├── requirements.txt                  # Python dependencies
 └── README.md                         # This file
 ```
@@ -63,8 +60,8 @@ The dataset contains **~6,600 student records** with features like hours studied
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/rawda0/student-exam-score-predictor.git
+cd student-exam-score-predictor
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -89,6 +86,6 @@ jupyter notebook Final_Project.ipynb
 
 ## 👤 Author
 
-*Add your name here*
+Rawda Attia
 
 ---
